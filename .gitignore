@@ -1,0 +1,11 @@
+Aim1/d0_RnaSeq/data/analysis.tar.gz
+Aim1/d0_RnaSeq/data/cloupe.cloupe
+Aim1/d0_RnaSeq/data/filtered_feature_bc_matrix.h5
+Aim1/d0_RnaSeq/data/filtered_feature_bc_matrix.tar.gz
+Aim1/d0_RnaSeq/data/molecule_info.h5
+Aim1/d0_RnaSeq/data/possorted_genome_bam.bam
+Aim1/d0_RnaSeq/data/possorted_genome_bam.bam.bai
+Aim1/d0_RnaSeq/data/raw_feature_bc_matrix.h5
+Aim1/d0_RnaSeq/data/raw_feature_bc_matrix.tar.gz
+Aim1/fw_results/library_d10.csv
+Aim1/fw_results/library_d13.csv
