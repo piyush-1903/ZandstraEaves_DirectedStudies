@@ -9,3 +9,8 @@ Aim1/d0_RnaSeq/data/raw_feature_bc_matrix.h5
 Aim1/d0_RnaSeq/data/raw_feature_bc_matrix.tar.gz
 Aim1/fw_results/library_d10.csv
 Aim1/fw_results/library_d13.csv
+Aim1/d0_RnaSeq/data/BlueprintEncodeData.R
+Aim1/d7-d13_RNASeq/merge2.RData
+.gitignore
+Aim1/d0_RnaSeq/data/d0Pheno.csv
+Aim1/d0_RnaSeq/data/d0.sce.RData
