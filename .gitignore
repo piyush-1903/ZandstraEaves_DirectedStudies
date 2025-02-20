@@ -14,3 +14,4 @@ Aim1/d7-d13_RNASeq/merge2.RData
 .gitignore
 Aim1/d0_RnaSeq/data/d0Pheno.csv
 Aim1/d0_RnaSeq/data/d0.sce.RData
+Aim1/d7-d13_RNASeq/data/merge2.RData
