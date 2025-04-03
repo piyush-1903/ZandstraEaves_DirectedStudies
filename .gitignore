@@ -4,3 +4,15 @@ Aim1/data/phenotype_with_ID.RData
 Aim1/data/merge2.RData
 Aim0/data/d0.sce.RData
 Aim0/data/BlueprintEncodeData.R
+Aim0/data/analysis.tar.gz
+Aim0/data/cloupe.cloupe
+Aim0/data/filtered_feature_bc_matrix.h5
+Aim0/data/filtered_feature_bc_matrix.tar.gz
+Aim0/data/molecule_info.h5
+Aim0/data/possorted_genome_bam.bam
+Aim0/data/possorted_genome_bam.bam.bai
+Aim0/data/raw_feature_bc_matrix.h5
+Aim0/data/raw_feature_bc_matrix.tar.gz
+Aim0/data/filteredOutput/barcodes.tsv.gz
+Aim0/data/filteredOutput/features.tsv.gz
+Aim0/data/filteredOutput/matrix.mtx.gz
