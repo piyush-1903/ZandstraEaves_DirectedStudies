@@ -16,3 +16,5 @@ Aim0/data/raw_feature_bc_matrix.tar.gz
 Aim0/data/filteredOutput/barcodes.tsv.gz
 Aim0/data/filteredOutput/features.tsv.gz
 Aim0/data/filteredOutput/matrix.mtx.gz
+Aim3/data/merge2.RData
+Aim3/data/phenotype_with_ID.RData
